@@ -1,1 +1,1 @@
-# car-price-prediction Model using Machine Learing
+# Car Price Prediction Model using Machine learning
